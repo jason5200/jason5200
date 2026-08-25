@@ -112,7 +112,7 @@
 [![Blog](https://img.shields.io/badge/Blog-码上座舱-0ea5e9?style=for-the-badge)](https://jason5200.github.io)
 
 - 💬 技术交流：欢迎在仓库开 Issue / Discussion
-- 📧 邮箱：jason5200@example.com
+- 📬 联系我：通过 GitHub Issues 或博客留言
 
 ---
 
