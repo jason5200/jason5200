@@ -110,9 +110,10 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-jason5200-181717?style=for-the-badge&logo=github)](https://github.com/jason5200)
 [![Blog](https://img.shields.io/badge/Blog-码上座舱-0ea5e9?style=for-the-badge)](https://jason5200.github.io)
+[![Email](https://img.shields.io/badge/Email-rdszdl%40163.com-blue?style=for-the-badge&logo=gmail)](mailto:rdszdl@163.com)
 
 - 💬 技术交流：欢迎在仓库开 Issue / Discussion
-- 📬 联系我：通过 GitHub Issues 或博客留言
+- 📧 邮箱：[rdszdl@163.com](mailto:rdszdl@163.com)
 
 ---
 
