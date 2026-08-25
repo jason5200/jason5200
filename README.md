@@ -33,7 +33,7 @@
 |------|------|------|
 | [AAOS-Guide](https://github.com/jason5200/AAOS-Guide) | 📖 车载 Android 系统学习路线与实战教程，从零搭建智能座舱认知 | ✅ 已开源 |
 | [Car-Launcher-Demo](https://github.com/jason5200/Car-Launcher-Demo) | 🧩 车机 Launcher 实战 Demo：多屏适配、性能优化、AAOS 实践 | ✅ 已开源 |
-| [Framework-Source-Note](https://github.com/jason5200/Framework-Source-Note) | 📚 Android Framework 源码精读笔记：Binder / Handler / AMS / WMS | 🚧 规划中 |
+| [Framework-Source-Note](https://github.com/jason5200/Framework-Source-Note) | 📚 Android Framework 源码精读笔记：Binder / Handler / AMS / WMS | 🚧 内容已备，待建仓 |
 | [AI-Android-Demo](https://github.com/jason5200/AI-Android-Demo) | 🤖 大模型 × Android 应用落地示例：端侧推理、Agent、对话式车机 | 🚧 规划中 |
 
 > 💡 *在主页点「Customize your pins」把上面 4 个仓库置顶，前两个已上线可直接置顶。*
