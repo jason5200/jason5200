@@ -6,7 +6,7 @@
 
 在智能座舱里写代码的人 🚗 | 热爱源码、架构与一切能落地的技术 🛠️ | 相信「输出倒逼输入」✍️
 
-[![Blog](https://img.shields.io/badge/Blog-%E5%8D%9A%E5%AE%A2-orange)](https://blog.example.com)
+[![Blog](https://img.shields.io/badge/Blog-%E5%8D%9A%E5%AE%A2-orange)](https://jason5200.github.io)
 [![WeChat](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E5%BE%AE%E4%BF%A1-green)](https://mp.weixin.qq.com)
 [![GitHub followers](https://img.shields.io/github/followers/jason5200?style=social)](https://github.com/jason5200)
 [![Visitors](https://komarev.com/ghpvc/?username=jason5200&color=blueviolet)](https://github.com/jason5200)
@@ -29,14 +29,14 @@
 
 ## 🚀 置顶项目（Pinned）
 
-| 项目 | 说明 | Stars |
-|------|------|-------|
-| [AAOS-Guide](https://github.com/jason5200/AAOS-Guide) | 📖 车载 Android 系统学习路线与实战教程，从零搭建智能座舱认知 | ⭐ 计划置顶 |
-| [Framework-Source-Note](https://github.com/jason5200/Framework-Source-Note) | 📚 Android Framework 源码精读笔记：Binder / Handler / AMS / WMS | ⭐ 计划置顶 |
-| [Car-Launcher-Demo](https://github.com/jason5200/Car-Launcher-Demo) | 🧩 车机 Launcher 实战 Demo：多屏适配、性能优化、AAOS 实践 | ⭐ 计划置顶 |
-| [AI-Android-Demo](https://github.com/jason5200/AI-Android-Demo) | 🤖 大模型 × Android 应用落地示例：端侧推理、Agent、对话式车机 | ⭐ 计划置顶 |
+| 项目 | 说明 | 状态 |
+|------|------|------|
+| [AAOS-Guide](https://github.com/jason5200/AAOS-Guide) | 📖 车载 Android 系统学习路线与实战教程，从零搭建智能座舱认知 | ✅ 已开源 |
+| [Car-Launcher-Demo](https://github.com/jason5200/Car-Launcher-Demo) | 🧩 车机 Launcher 实战 Demo：多屏适配、性能优化、AAOS 实践 | ✅ 已开源 |
+| [Framework-Source-Note](https://github.com/jason5200/Framework-Source-Note) | 📚 Android Framework 源码精读笔记：Binder / Handler / AMS / WMS | 🚧 规划中 |
+| [AI-Android-Demo](https://github.com/jason5200/AI-Android-Demo) | 🤖 大模型 × Android 应用落地示例：端侧推理、Agent、对话式车机 | 🚧 规划中 |
 
-> ✨ *上面的仓库是规划中的内容体系，创建后会替换为真实项目链接。*
+> 💡 *在主页点「Customize your pins」把上面 4 个仓库置顶，前两个已上线可直接置顶。*
 
 ---
 
@@ -76,10 +76,10 @@
 
 ## 📝 内容输出
 
-- ✍️ **博客**：[blog.example.com](https://blog.example.com) —— 车载 Android 与 AI 系列文章
+- ✍️ **博客**：[jason5200.github.io](https://jason5200.github.io) —— 车载 Android 与 AI 系列文章
 - 📱 **公众号**：Jason 的码上座舱 —— 每周更新
 - 📺 **视频**：B 站 / 掘金同步更新（待开通）
-- 🌱 **正在做**：开源 AAOS-Guide 学习路线仓库，欢迎 PR 共建
+- 🌱 **正在做**：持续更新 AAOS-Guide 学习路线与源码精读，欢迎 PR 共建
 
 ---
 
@@ -87,6 +87,6 @@
 
 - 💬 技术交流：GitHub Issues / Discussions
 - 📧 邮箱：jason5200@example.com
-- 🌐 个人主页：[jason5200.github.io](https://jason5200.github.io)（待搭建）
+- 🌐 个人主页：[jason5200.github.io](https://jason5200.github.io)
 
 > 如果你觉得某个项目有帮助，欢迎 ⭐ Star、🍋 Fork、📮 PR，一起把车载 Android 与 AI 做好玩一点！
