@@ -26,12 +26,19 @@
 
 > 写作原则：源码对照写明 AOSP 标签；Demo 标明 Mock 还是真实后端。
 
+**从这里开始**
+
+1. 博客：[jason5200.github.io](https://jason5200.github.io)
+2. 车载主线：[《AAOS 到底是什么》](https://jason5200.github.io/#/articles/00-overview/aaos-intro.md)
+3. 动手：[Car-Launcher-Demo](https://github.com/jason5200/Car-Launcher-Demo)（AAOS 模拟器）· [AI-Android-Demo](https://github.com/jason5200/AI-Android-Demo)（可接 OpenAI 兼容 API）
+
 ---
 
 ## 📚 开源项目
 
 | 项目 | Stars | 说明 |
 |------|-------|------|
+| 🌐 [码上座舱（博客）](https://jason5200.github.io) | — | 文章站：车载 / Framework / AI |
 | 📖 [AAOS-Guide](https://github.com/jason5200/AAOS-Guide) | ![Stars](https://img.shields.io/github/stars/jason5200/AAOS-Guide?style=social) | 车载 Android 学习路线（CarService / HAL 主线） |
 | 📚 [Framework-Source-Note](https://github.com/jason5200/Framework-Source-Note) | ![Stars](https://img.shields.io/github/stars/jason5200/Framework-Source-Note?style=social) | Framework 源码笔记（对照 AOSP 14） |
 | 🧩 [Car-Launcher-Demo](https://github.com/jason5200/Car-Launcher-Demo) | ![Stars](https://img.shields.io/github/stars/jason5200/Car-Launcher-Demo?style=social) | 车机 Home 骨架（应用网格） |
