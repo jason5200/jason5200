@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="assets/banner.jpg" alt="码上座舱 · 车载 Android 中间件" width="100%" />
+</div>
+
+<div align="center">
 
 <img src="https://img.shields.io/badge/Android%20System%20Engineer-车载%20%7C%20Framework%20%7C%20AI-0ea5e9?style=for-the-badge" alt="title" />
 
