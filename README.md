@@ -24,7 +24,7 @@
 - ⚙️ 精读 Framework 源码：Binder / Handler / AMS / WMS
 - 🤖 实践 AI 上车：端侧推理、Agent、车载语音
 
-> 📌 **写作信条：不写没验证过的代码，不讲没跑通的技术。**
+> 写作原则：源码对照写明 AOSP 标签；Demo 标明 Mock 还是真实后端。
 
 ---
 
@@ -32,24 +32,22 @@
 
 | 项目 | Stars | 说明 |
 |------|-------|------|
-| 📖 [AAOS-Guide](https://github.com/jason5200/AAOS-Guide) | ![Stars](https://img.shields.io/github/stars/jason5200/AAOS-Guide?style=social) | 车载 Android 系统学习路线与实战教程 |
-| 📚 [Framework-Source-Note](https://github.com/jason5200/Framework-Source-Note) | ![Stars](https://img.shields.io/github/stars/jason5200/Framework-Source-Note?style=social) | Android Framework 源码精读笔记 |
-| 🧩 [Car-Launcher-Demo](https://github.com/jason5200/Car-Launcher-Demo) | ![Stars](https://img.shields.io/github/stars/jason5200/Car-Launcher-Demo?style=social) | 车机 Launcher 实战 Demo |
-| 🤖 [AI-Android-Demo](https://github.com/jason5200/AI-Android-Demo) | ![Stars](https://img.shields.io/github/stars/jason5200/AI-Android-Demo?style=social) | 大模型 × Android 落地示例 |
+| 📖 [AAOS-Guide](https://github.com/jason5200/AAOS-Guide) | ![Stars](https://img.shields.io/github/stars/jason5200/AAOS-Guide?style=social) | 车载 Android 学习路线（CarService / HAL 主线） |
+| 📚 [Framework-Source-Note](https://github.com/jason5200/Framework-Source-Note) | ![Stars](https://img.shields.io/github/stars/jason5200/Framework-Source-Note?style=social) | Framework 源码笔记（对照 AOSP 14） |
+| 🧩 [Car-Launcher-Demo](https://github.com/jason5200/Car-Launcher-Demo) | ![Stars](https://img.shields.io/github/stars/jason5200/Car-Launcher-Demo?style=social) | 车机 Home 骨架（应用网格） |
+| 🤖 [AI-Android-Demo](https://github.com/jason5200/AI-Android-Demo) | ![Stars](https://img.shields.io/github/stars/jason5200/AI-Android-Demo?style=social) | 对话 Demo（OpenAI 兼容流式 / Mock） |
 
 ---
 
 ## ✍️ 最近文章
 
-<!-- 从博客手动同步，保持最新 5 篇 -->
-
 | 日期 | 文章 | 系列 |
 |------|------|------|
-| 2026-08 | [Binder 驱动层深入](https://jason5200.github.io/#/articles/framework/binder-driver.md) | 📚 Framework |
-| 2026-08 | [端侧 AI 的工程化实践](https://jason5200.github.io/#/articles/ai/ai-engineering.md) | 🤖 AI 上车 |
-| 2026-08 | [Choreographer 与渲染机制](https://jason5200.github.io/#/articles/framework/choreographer.md) | 📚 Framework |
-| 2026-08 | [WMS 窗口管理解析](https://jason5200.github.io/#/articles/framework/wms-window.md) | 📚 Framework |
-| 2026-08 | [AMS 启动流程解析](https://jason5200.github.io/#/articles/framework/ams-startup.md) | 📚 Framework |
+| 2026-08 | [车辆传感器：迁到 CarPropertyManager](https://jason5200.github.io/#/articles/audio/car-sensor.md) | 车载 |
+| 2026-08 | [CarPropertyService 源码](https://jason5200.github.io/#/articles/car-service/carproperty-source.md) | 车载 |
+| 2026-08 | [binder_proc / binder_thread](https://jason5200.github.io/#/articles/framework/binder-struct-source.md) | Framework |
+| 2026-08 | [CarService 启动流程源码](https://jason5200.github.io/#/articles/car-service/carservice-startup-source.md) | 车载 |
+| 2026-08 | [端侧推理性能优化](https://jason5200.github.io/#/articles/ai/inference-perf.md) | AI 上车 |
 
 → [查看全部文章](https://jason5200.github.io)
 
