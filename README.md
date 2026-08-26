@@ -28,7 +28,7 @@
 - ⚙️ 精读 Framework 源码：Binder / Handler / AMS / WMS
 - 🤖 实践 AI 上车：端侧推理、Agent、车载语音
 
-> 写作原则：源码对照写明 AOSP 标签；Demo 标明 Mock 还是真实后端。
+> 座舱里最怕含糊：源码对着 AOSP 标签写，Demo 是 Mock 就直说 Mock。
 
 **从这里开始**
 
