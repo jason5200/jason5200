@@ -60,20 +60,6 @@
 
 ---
 
-## 📊 GitHub 数据
-
-<div align="center">
-
-![Jason's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jason5200&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jason5200&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jason5200&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🛠️ 技术栈
 
 <details>
