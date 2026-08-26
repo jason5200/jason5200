@@ -25,6 +25,7 @@
 一名专注 **智能座舱中间件（AAOS）与 Android 系统底层** 的工程师，同时探索 **大模型在车机端侧的落地**。
 
 - 🚗 深耕车载中间件：Vehicle HAL、CarService、车辆属性、电源 / 音频
+- 🔧 联发科座舱 BSP：启动、AEE、音频 HAL 接到 AAOS
 - ⚙️ 精读 Framework 源码：Binder / Handler / AMS / WMS
 - 🤖 实践 AI 上车：端侧推理、Agent、车载语音
 
@@ -54,11 +55,11 @@
 
 | 日期 | 文章 | 系列 |
 |------|------|------|
+| 2026-08 | [联发科座舱：BSP 接到哪一层](https://jason5200.github.io/#/articles/mtk/mtk-aaos-map.md) | MTK |
+| 2026-08 | [AEE：死机和 NE](https://jason5200.github.io/#/articles/mtk/mtk-aee.md) | MTK |
 | 2026-08 | [车载中间件地图](https://jason5200.github.io/#/articles/00-overview/middleware.md) | 车载 |
 | 2026-08 | [CarPropertyManager](https://jason5200.github.io/#/articles/carservice-api/carproperty-manager.md) | 车载 |
 | 2026-08 | [Vehicle HAL（AIDL）](https://jason5200.github.io/#/articles/permission/vehicle-hal.md) | 车载 |
-| 2026-08 | [CarService 架构](https://jason5200.github.io/#/articles/car-service/carservice-architecture.md) | 车载 |
-| 2026-08 | [电源状态与熄火准备](https://jason5200.github.io/#/articles/audio/car-power.md) | 车载 |
 
 → [查看全部文章](https://jason5200.github.io)
 
