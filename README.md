@@ -18,9 +18,9 @@
 
 ## 🧭 关于我
 
-一名专注 **智能座舱（AAOS）与 Android 系统底层** 的工程师，同时探索 **大模型在车机端侧的落地**。
+一名专注 **智能座舱中间件（AAOS）与 Android 系统底层** 的工程师，同时探索 **大模型在车机端侧的落地**。
 
-- 🚗 深耕车载 Android：CarService、多屏、性能优化
+- 🚗 深耕车载中间件：Vehicle HAL、CarService、车辆属性、电源 / 音频
 - ⚙️ 精读 Framework 源码：Binder / Handler / AMS / WMS
 - 🤖 实践 AI 上车：端侧推理、Agent、车载语音
 
@@ -29,7 +29,7 @@
 **从这里开始**
 
 1. 博客：[jason5200.github.io](https://jason5200.github.io)
-2. 车载主线：[《AAOS 到底是什么》](https://jason5200.github.io/#/articles/00-overview/aaos-intro.md)
+2. 中间件入口：[《车载中间件地图》](https://jason5200.github.io/#/articles/00-overview/middleware.md)
 3. 动手：[Car-Launcher-Demo](https://github.com/jason5200/Car-Launcher-Demo)（AAOS 模拟器）· [AI-Android-Demo](https://github.com/jason5200/AI-Android-Demo)（可接 OpenAI 兼容 API）
 
 ---
@@ -39,7 +39,7 @@
 | 项目 | Stars | 说明 |
 |------|-------|------|
 | 🌐 [码上座舱（博客）](https://jason5200.github.io) | — | 文章站：车载 / Framework / AI |
-| 📖 [AAOS-Guide](https://github.com/jason5200/AAOS-Guide) | ![Stars](https://img.shields.io/github/stars/jason5200/AAOS-Guide?style=social) | 车载 Android 学习路线（CarService / HAL 主线） |
+| 📖 [AAOS-Guide](https://github.com/jason5200/AAOS-Guide) | ![Stars](https://img.shields.io/github/stars/jason5200/AAOS-Guide?style=social) | 车载中间件学习路线（Vehicle HAL / CarService / 车辆属性） |
 | 📚 [Framework-Source-Note](https://github.com/jason5200/Framework-Source-Note) | ![Stars](https://img.shields.io/github/stars/jason5200/Framework-Source-Note?style=social) | Framework 源码笔记（对照 AOSP 14） |
 | 🧩 [Car-Launcher-Demo](https://github.com/jason5200/Car-Launcher-Demo) | ![Stars](https://img.shields.io/github/stars/jason5200/Car-Launcher-Demo?style=social) | 车机 Home 骨架（应用网格） |
 | 🤖 [AI-Android-Demo](https://github.com/jason5200/AI-Android-Demo) | ![Stars](https://img.shields.io/github/stars/jason5200/AI-Android-Demo?style=social) | 对话 Demo（OpenAI 兼容流式 / Mock） |
@@ -50,11 +50,11 @@
 
 | 日期 | 文章 | 系列 |
 |------|------|------|
-| 2026-08 | [车辆传感器：迁到 CarPropertyManager](https://jason5200.github.io/#/articles/audio/car-sensor.md) | 车载 |
-| 2026-08 | [CarPropertyService 源码](https://jason5200.github.io/#/articles/car-service/carproperty-source.md) | 车载 |
-| 2026-08 | [binder_proc / binder_thread](https://jason5200.github.io/#/articles/framework/binder-struct-source.md) | Framework |
-| 2026-08 | [CarService 启动流程源码](https://jason5200.github.io/#/articles/car-service/carservice-startup-source.md) | 车载 |
-| 2026-08 | [端侧推理性能优化](https://jason5200.github.io/#/articles/ai/inference-perf.md) | AI 上车 |
+| 2026-08 | [车载中间件地图](https://jason5200.github.io/#/articles/00-overview/middleware.md) | 车载 |
+| 2026-08 | [CarPropertyManager](https://jason5200.github.io/#/articles/carservice-api/carproperty-manager.md) | 车载 |
+| 2026-08 | [Vehicle HAL（AIDL）](https://jason5200.github.io/#/articles/permission/vehicle-hal.md) | 车载 |
+| 2026-08 | [CarService 架构](https://jason5200.github.io/#/articles/car-service/carservice-architecture.md) | 车载 |
+| 2026-08 | [电源状态与熄火准备](https://jason5200.github.io/#/articles/audio/car-power.md) | 车载 |
 
 → [查看全部文章](https://jason5200.github.io)
 
